@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LanguageConvertor</string>
+    <string name="app_title">Language Demo</string>
+    <string name="strEmployee">Employee</string>
+    <string name="strEmployer">Employer</string>
+    <string name="strBusiness">Business</string>
+    <string name="strOrganization">Organization</string>
+    <string name="abtEmployee">An employee is someone who gets paid to work for a person or company. Workers don\'t need to work full time to be considered employees—they simply need to be paid to work by an employer (the person or business that pays them).</string>
+    <string name="abtEmployer">The employer definition is an individual or an organization in the government, private, nonprofit, or business sector that hires and pays people for their work. As the authority within an organization, the employer defines the terms of employment for employees and provides the agreed-upon terms such as the salary.</string>
+    <string name="abtBusiness">Business refers to an enterprising entity or organization that carries out professional activities. They can be commercial, industrial, or others. For-profit business entities do business to earn a profit, while non-profit ones do it for a charitable mission.</string>
+    <string name="abtOrganization">An organization is a group of people who work together, like a neighborhood association, a charity, a union, or a corporation. You can use the word organization to refer to group or business, or to the act of forming or establishing something.</string>
+
+
+</resources>
